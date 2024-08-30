@@ -9,6 +9,7 @@ sap.ui.define([
     ],
     function (UIComponent, Device, models) {
         "use strict";
+        
 
         return UIComponent.extend("sap.btp.helloworldui5.Component", {
             metadata: {
